@@ -1,0 +1,1 @@
+http://[\w\./]*?\.(com|org|net|cn|htm(l)?)
